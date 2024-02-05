@@ -1,9 +1,4 @@
 # Sistem-Perpustakaan-Sekolah
-Nama Project ini adalah : CuyPerpus
-
-CuyPerpus adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
-
-website ini dibuat menggunakan framework bootstrap, javascript, php dan database mysql.
 
 Fitur fitur yang terdapat didalam aplikasi ini : 
 1. Memiliki 2 akses login, admin dan user/siswa .
@@ -19,6 +14,3 @@ Fitur fitur yang terdapat didalam aplikasi ini :
   - meminjam buku 
   - mengembalikan buku
   - membayar denda
-
-
-Created by Hasyim Syahputra - Student At SMK Prestasi Prima Jakarta
