@@ -21,4 +21,4 @@ Fitur fitur yang terdapat didalam aplikasi ini :
   - membayar denda
 
 
-Created by Hasyim Syahputra - Student At SMKN 1 Jakarta
+Created by Hasyim Syahputra - Student At SMK Prestasi Prima Jakarta
